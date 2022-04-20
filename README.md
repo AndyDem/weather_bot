@@ -4,6 +4,5 @@
 # ToDo
 * Localization choice
 * Forecast for following day
-* Docker
 * Tests
 * Scheduled messaging with weather for today
